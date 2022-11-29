@@ -1,2 +1,3 @@
 my first readme
-Now as an alx full stack software engineer
+
+While in the process of being a full stack engineer
